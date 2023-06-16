@@ -1,0 +1,2 @@
+# Detection_of_the_presence_of_cigarettes_in_the_picture
+Resimde sigara olup olmadığını söyler
